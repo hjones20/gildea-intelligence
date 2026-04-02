@@ -2,8 +2,6 @@
 
 An AI market intelligence agent that generates sourced, evidence-based thesis validation reports. Powered by [Gildea's](https://gildea.ai) verified intelligence from 500+ expert sources and Claude's analytical reasoning.
 
-**What makes this different from ChatGPT + web search?** Consensus mapping. For any claim, this agent tells you exactly how many independent sources support or contradict it, with specific named citations from each. Every claim in the report has been independently verified against source material.
-
 ## Quick Start
 
 ```bash
