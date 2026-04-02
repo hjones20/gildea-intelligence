@@ -13,3 +13,4 @@ env/
 logs/
 *.jsonl
 .pypirc
+PLAN.md
